@@ -38,8 +38,12 @@ Edit
 ```sh
 git clone https://github.com/yourusername/CharityDonationApp.git
 ```
+
+---
 2️⃣ Open in Xcode
 Navigate to the project folder and open kbcse335projectfinal.xcodeproj.
+
+---
 3️⃣ Run the App
 Ensure you're using Xcode 15 and iOS 17 Simulator.
 Click on the ▶️ Run button in Xcode.
@@ -70,14 +74,18 @@ The app ensures that donation records persist even after closing the app.
 🔹 Introduce push notifications for urgent charity needs.
 🔹 Improve search filters for a better user experience.
 
+---
+
 📜 License
 This project is open-source and available under the MIT License.
 
+---
 👨‍💻 Developer
 Krishna Balaji
 📧 Email: krishna311004@gmail.com
-🔗 GitHub: krishna31102004
-🔗 LinkedIn: Krishna Balaji
+🔗 GitHub: https://github.com/krishna31102004
+🔗 LinkedIn: www.linkedin.com/in/krishna-balaji-53785a257
 
+---
 🎥 Presentation Video
-📺 Watch the project demo here: YouTube Video Link
+📺 Watch the project demo here: https://www.youtube.com/watch?v=v4VzRtGHnG4
