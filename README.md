@@ -42,9 +42,13 @@ Navigate to the project folder and open kbcse335projectfinal.xcodeproj.
 
 ---
 3️⃣ Run the App
+
 Ensure you're using Xcode 15 and iOS 17 Simulator.
+
 Click on the ▶️ Run button in Xcode.
+
 📡 API Integration - Google Places API
+
 The app uses Google Places API to fetch real-time information about nearby charities.
 
 API Request Example
@@ -74,6 +78,7 @@ The app ensures that donation records persist even after closing the app.
 ---
 
 📜 License
+
 This project is open-source and available under the MIT License.
 
 ---
@@ -87,4 +92,5 @@ Krishna Balaji
 
 ---
 🎥 Presentation Video
+
 📺 Watch the project demo here: https://www.youtube.com/watch?v=v4VzRtGHnG4
