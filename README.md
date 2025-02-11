@@ -26,27 +26,35 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture pattern.
 
 📂 CharityDonationApp │── 📂 Models │ ├── DonationModel.swift │ ├── PlacesModel.swift │ ├── UserModel.swift │ │── 📂 ViewModels │ ├── DonationViewModel.swift │ ├── DonationHistoryViewModel.swift │ ├── DashboardViewModel.swift │ ├── PlacesViewModel.swift │ ├── ProfileViewModel.swift │ │── 📂 Views │ ├── DonationView.swift │ ├── DonationHistoryView.swift │ ├── DashboardView.swift │ ├── PlacesView.swift │ ├── ProfileView.swift │ │── 📂 Services │ ├── APIService.swift (Handles API Calls) │ ├── LocationService.swift (Handles MapKit & Google Places API) │ │── 📂 Assets │── 📂 SwiftData (For persistent storage) │── CharityDonationApp.swift (Main Entry Point)
 
+yaml
+Copy
+Edit
+
 ---
 
 ## 📌 Installation
-1️⃣ **Clone the repository**
+
+### **1️⃣ Clone the repository**
+```sh
 git clone https://github.com/yourusername/CharityDonationApp.git
-2️⃣ **Open in Xcode**
-Navigate to the project folder and open kbcse335projectfinal.xcodeproj 
-3️⃣ **Run the App**
+2️⃣ Open in Xcode
+Navigate to the project folder and open kbcse335projectfinal.xcodeproj.
+3️⃣ Run the App
 Ensure you're using Xcode 15 and iOS 17 Simulator.
 Click on the ▶️ Run button in Xcode.
 📡 API Integration - Google Places API
 The app uses Google Places API to fetch real-time information about nearby charities.
-API calls are made using URLSession and JSON decoding.
-Required API Key: Google Cloud Console API Key.
-API Endpoint Example:
+
+API Request Example
+sh
+Copy
+Edit
 https://maps.googleapis.com/maps/api/place/nearbysearch/json?
 location=latitude,longitude
 &radius=5000
 &type=charity
 &key=YOUR_API_KEY
-How to Get an API Key:
+How to Get an API Key
 Visit Google Cloud Console.
 Create a new project.
 Enable Google Places API.
@@ -70,8 +78,8 @@ This project is open-source and available under the MIT License.
 👨‍💻 Developer
 Krishna Balaji
 📧 Email: krishna311004@gmail.com
-🔗 GitHub: https://github.com/krishna31102004
-🔗 LinkedIn: www.linkedin.com/in/krishna-balaji-53785a257
+🔗 GitHub: krishna31102004
+🔗 LinkedIn: Krishna Balaji
 
 🎥 Presentation Video
-📺 Watch the project demo here: https://www.youtube.com/watch?v=v4VzRtGHnG4
+📺 Watch the project demo here: YouTube Video Link
