@@ -35,7 +35,9 @@ Edit
 ## 📌 Installation
 
 ### **1️⃣ Clone the repository**
+```sh
 git clone https://github.com/yourusername/CharityDonationApp.git
+```
 2️⃣ Open in Xcode
 Navigate to the project folder and open kbcse335projectfinal.xcodeproj.
 3️⃣ Run the App
@@ -45,9 +47,6 @@ Click on the ▶️ Run button in Xcode.
 The app uses Google Places API to fetch real-time information about nearby charities.
 
 API Request Example
-sh
-Copy
-Edit
 https://maps.googleapis.com/maps/api/place/nearbysearch/json?
 location=latitude,longitude
 &radius=5000
