@@ -35,7 +35,6 @@ Edit
 ## 📌 Installation
 
 ### **1️⃣ Clone the repository**
-```sh
 git clone https://github.com/yourusername/CharityDonationApp.git
 2️⃣ Open in Xcode
 Navigate to the project folder and open kbcse335projectfinal.xcodeproj.
