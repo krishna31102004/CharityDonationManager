@@ -26,15 +26,11 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture pattern.
 
 📂 CharityDonationApp │── 📂 Models │ ├── DonationModel.swift │ ├── PlacesModel.swift │ ├── UserModel.swift │ │── 📂 ViewModels │ ├── DonationViewModel.swift │ ├── DonationHistoryViewModel.swift │ ├── DashboardViewModel.swift │ ├── PlacesViewModel.swift │ ├── ProfileViewModel.swift │ │── 📂 Views │ ├── DonationView.swift │ ├── DonationHistoryView.swift │ ├── DashboardView.swift │ ├── PlacesView.swift │ ├── ProfileView.swift │ │── 📂 Services │ ├── APIService.swift (Handles API Calls) │ ├── LocationService.swift (Handles MapKit & Google Places API) │ │── 📂 Assets │── 📂 SwiftData (For persistent storage) │── CharityDonationApp.swift (Main Entry Point)
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📌 Installation
 1️⃣ **Clone the repository**
-```sh
+
 git clone https://github.com/yourusername/CharityDonationApp.git
 2️⃣ Open in Xcode
 
@@ -46,9 +42,6 @@ The app uses Google Places API to fetch real-time information about nearby chari
 API calls are made using URLSession and JSON decoding.
 Required API Key: Google Cloud Console API Key.
 API Endpoint Example:
-ruby
-Copy
-Edit
 https://maps.googleapis.com/maps/api/place/nearbysearch/json?
 location=latitude,longitude
 &radius=5000
