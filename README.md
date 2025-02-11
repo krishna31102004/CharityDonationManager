@@ -13,7 +13,7 @@ The **Charity Donation App** is an iOS application built using **SwiftUI** with 
 ## 🚀 Features
 ✅ **User Authentication** - Login and registration with basic validation.  
 ✅ **Donation System** - Users can donate to charities and save donation history.  
-✅ **Favorites List** - Users can mark charities as favorites for easy access.  
+✅ **Favorites List** - Users can mark charities as favorites for easy access.
 ✅ **Map Integration** - View nearby charities using **MapKit** and **Google Places API**.  
 ✅ **Web API Integration** - Fetch real-time donation needs via Google Places API.  
 ✅ **MVVM Architecture** - Clean separation of concerns between **View, ViewModel, and Model**.  
@@ -80,7 +80,9 @@ This project is open-source and available under the MIT License.
 👨‍💻 Developer
 Krishna Balaji
 📧 Email: krishna311004@gmail.com
+
 🔗 GitHub: https://github.com/krishna31102004
+
 🔗 LinkedIn: www.linkedin.com/in/krishna-balaji-53785a257
 
 ---
