@@ -30,12 +30,10 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture pattern.
 
 ## 📌 Installation
 1️⃣ **Clone the repository**
-
 git clone https://github.com/yourusername/CharityDonationApp.git
-2️⃣ Open in Xcode
-
-Navigate to the project folder and open CharityDonationApp.xcodeproj 
-3️⃣ Run the App
+2️⃣ **Open in Xcode**
+Navigate to the project folder and open kbcse335projectfinal.xcodeproj 
+3️⃣ **Run the App**
 Ensure you're using Xcode 15 and iOS 17 Simulator.
 Click on the ▶️ Run button in Xcode.
 📡 API Integration - Google Places API
